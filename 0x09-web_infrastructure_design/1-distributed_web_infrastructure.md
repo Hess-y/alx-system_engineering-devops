@@ -1,4 +1,5 @@
-https://jamboard.google.com/d/1KHdwSGCHd1EWH4Lanrl_6JPEYcjYSQrUbqFqeMEMRyA/edit?usp=sharing
+![1-distributed_web_infrastructure 1](https://user-images.githubusercontent.com/113606328/227807316-a2049571-9b7e-493b-8efe-56ceca8187d5.png)
+
 
 Issues with this infrastructure:
 
