@@ -1,0 +1,9 @@
+frontend www-https
+    bind *:443 ssl crt /etc/letsencrypt/live/hessy.tech/fullchain.pem
+    reqadd X-Forwarded-Proto:\ https
+    default_backend www-backend
+
+backend www-backend
+    server web-server1 3.89.146.56:80 check
+    server web-server2 18.235.248.209:80 check
+
