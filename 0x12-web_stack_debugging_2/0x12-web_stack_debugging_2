@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash script that accepts one argument / Run software as another user
+
+sudo su -c "whoami" -s /bin/sh "$1"
