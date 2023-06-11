@@ -17,7 +17,7 @@
  2. By doing regular testing and maintenance of the entire webstack. 
  3. Come up with an emergency recovery plan to be used incase of any disaster happenings.
  
-    TASKS TO ADDRESS THE ISSUE
+     TASKS TO ADDRESS THE ISSUE
  1. Update the database software to the latest version recommended.
  2. Add specific alerts measures for database latency,etc to enhance monitoring of the system
  3. Perform regular maintenance on database hardware to identify anything that is faulty.
