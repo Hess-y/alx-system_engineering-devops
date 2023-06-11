@@ -1,6 +1,8 @@
      ISSUE SUMMARY
  June 8 around 8:00 a.m to June 9, around 2:00 p.m, Users complained of not being able to access their accounts or being able to do aything of sorts.
  100% users complained about this issue.
+ 
+ 
  ![image](https://github.com/Hess-y/alx-system_engineering-devops/assets/113606328/6a304960-1c77-4e76-a4e6-c2aef323588d)
  
  The root cause of all the problems was a database failure caused by failure in the storage layer. 
