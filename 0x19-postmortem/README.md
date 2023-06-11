@@ -16,11 +16,11 @@
  The incident was escalated to the database operations team for further analysis.
  June 9, 2:00 p.m - The incident was resolved after identifying the failure in the storage layer and taking corrective actions.
  
- 
- ![image](https://github.com/Hess-y/alx-system_engineering-devops/assets/113606328/9eb490c8-5c98-4086-8696-6419625660b3)
-
-
     CORRECTIVE AND PREVENTIVE MEASURES
+    
+ ![image](https://github.com/Hess-y/alx-system_engineering-devops/assets/113606328/87991729-fa8b-4802-95c4-245bb2a845f9)
+
+
  1. Improve monitoring of the system so as to detect any alerts. 
  2. By doing regular testing and maintenance of the entire webstack. 
  3. Come up with an emergency recovery plan to be used incase of any disaster happenings.
